@@ -4,6 +4,7 @@
     import {link} from 'svelte-routing';
 </script>
 
+
 <article class='product'>
     <div class="img-container">
         <img src={image} alt={title}>
@@ -14,3 +15,4 @@
         <p class='product-price'>${price}</p>
     </div>
 </article>
+
