@@ -1,7 +1,7 @@
 <script>
     export let title = '';    
     import products from '../../stores/defaultProducts';
-    import Product from './Product_old.svelte';
+    import Product from './Product.svelte';
     import Loading from '../Loading.svelte';
     $:featured = $products.filter(item => item.featured === true);
 </script>
