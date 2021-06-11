@@ -1,7 +1,4 @@
-<script>
-    // to remove browser warning message
-    export let location;
-    
+<script>   
     import Hero from '../components/Hero.svelte';
     import {link} from 'svelte-routing';
     // featured products
