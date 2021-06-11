@@ -1,7 +1,4 @@
 <script>
-    // to remove browser warning message
-	export let location;
-
     import {onMount} from 'svelte';
     import {navigate, link} from 'svelte-routing';
     import user from '../stores/user';

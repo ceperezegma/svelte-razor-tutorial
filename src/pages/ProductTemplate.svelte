@@ -1,7 +1,4 @@
 <script>
-    // to remove browser warning message
-    export let location;
-    
     export let id;
     // global store
     import products from '../stores/defaultProducts';

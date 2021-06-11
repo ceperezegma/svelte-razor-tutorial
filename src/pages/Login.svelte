@@ -1,7 +1,4 @@
 <script>
-    // to remove browser warning message
-    export let location;
-
     import loginUser from '../strapi/loginUser';
     import registerUser from '../strapi/registerUser';
     import {navigate} from 'svelte-routing';
