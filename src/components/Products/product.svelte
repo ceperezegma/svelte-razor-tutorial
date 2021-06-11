@@ -15,3 +15,4 @@
         <p class='product-price'>${price}</p>
     </div>
 </article>
+
