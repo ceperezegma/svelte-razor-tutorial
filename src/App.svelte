@@ -1,6 +1,4 @@
 <script>
-	// to remove browser warning message
-	export let name;
 	// pages	
 	import Checkout from './pages/Checkout.svelte';
 	import ProductTemplate from './pages/ProductTemplate.svelte';
